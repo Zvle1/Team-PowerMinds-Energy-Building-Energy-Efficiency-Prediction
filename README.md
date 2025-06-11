@@ -1,2 +1,2 @@
 # Team-PowerMinds-Energy-Building-Energy-Efficiency-Prediction
-The document "Predicting Building Energy Efficiency: A Data-Science Approach" presents a well-structured machine learning project aimed at predicting heating and cooling loads of buildings using architectural features.
+The document "Predicting Building Energy Efficiency: A Data-Science Approach" presents a well-structured machine learning project aimed at predicting heating and cooling loads of buildings using architectural features. This energy efficiency prediction project predicting heating and cooling loads based on building features with the objective to help a construction company estimate how design features affect energy usage to promote greener buildings.
